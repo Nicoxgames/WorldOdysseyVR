@@ -8,3 +8,6 @@ Picture of the project :
 
 
 ![3](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/c32dda22-7a61-4680-b355-89116136abd2)
+
+
+![4](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/7e17a416-5894-4320-a713-7f981854551b)
