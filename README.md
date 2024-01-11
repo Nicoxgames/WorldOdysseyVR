@@ -24,9 +24,6 @@ Picture of the project :
 ![10](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/e6b39696-06cb-4c80-a274-4ad2a3688aad)
 ![9](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/be6b6b0b-614e-4658-8df0-7541bf1a1a8b)
 ![8](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/8d4d41ae-20c8-421e-98b5-e45fb7625a37)
-
-
-Hierarchy pictures :
 ![7](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/e10c0b4b-fdae-4e1a-9e6a-726463f7f3b3)
 ![6](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/133d1521-26a6-4ec0-b9c8-1cf99b5f93a5)
 ![5](https://github.com/Nicoxgames/WorldOdysseyVR/assets/116258727/56d818fa-8e6b-4a9b-b5cb-8f47bdc8249a)
